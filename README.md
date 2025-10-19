@@ -50,7 +50,8 @@
 5. **Конец**
 
 ### Блок-схема
-!![Блок-схема алгоритма](ЗадачаЛ6.png)
+!![Блок-схема алгоритма](Laba7.png)
+(https://app.diagrams.net/#HIvan-Gus%2FHomework-lab7%2Fmain%2FLaba7.png#%7B%22pageId%22%3A%22vKg7L8X21BIwSFlcxruJ%22%7D)
 
 ### 2. Реализация программы
 
